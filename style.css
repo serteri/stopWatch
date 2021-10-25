@@ -1,0 +1,38 @@
+*{
+    margin:0;
+    box-sizing: border-box;
+}
+
+.number{
+    text-align: center;
+    margin-top: 2rem;
+}
+
+.button{
+    text-align: center;
+    margin-top: 2rem;
+    margin-left:0.8rem;
+}
+
+.button-1{
+    font-size:1.2rem;
+    color: green;
+    border-color: green;
+    border-radius: 15px;
+    border-width: 2px;
+}
+.button-2{
+    font-size:1.2rem;
+    color: red;
+    border-color:red;
+    border-radius: 15px;
+    border-width: 2px;
+}
+
+.button-3{
+    font-size:1.2rem;
+    color: grey;
+    border-radius: 15px;
+    border-width: 2px;
+    border-color: grey;
+}
